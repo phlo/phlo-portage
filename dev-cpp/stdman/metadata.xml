@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>florian.schroegendorfer@phlo.at</email>
+	</maintainer>
+	<longdescription lang="en">
+		Automatically generate C++ man pages from cppreference.com
+	</longdescription>
+</pkgmetadata>
