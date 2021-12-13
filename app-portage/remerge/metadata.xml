@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
 		<email>florian.schroegendorfer@phlo.at</email>
 		<name>Florian Schrögendorfer</name>
 	</maintainer>
 	<longdescription lang="en">
-		Automatically generate C++ man pages from cppreference.com
+		A quick and dirty binary package host implementation.
 	</longdescription>
+	<use>
+		<flag name="client">Install as client</flag>
+		<flag name="server">Install as server</flag>
+	</use>
 </pkgmetadata>
