@@ -15,4 +15,9 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64"
 
+RDEPEND="
+	sys-apps/portage[${PYTHON_USEDEP}]
+	dev-python/packaging[${PYTHON_USEDEP}]
+"
+
 distutils_enable_tests unittest
