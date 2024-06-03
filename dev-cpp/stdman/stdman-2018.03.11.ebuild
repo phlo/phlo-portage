@@ -1,11 +1,11 @@
-# Copyright 2019 Gentoo Authors
+# Copyright 2024 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-EAPI=7
+EAPI=8
 
 DESCRIPTION="Automatically generate C++ man pages from cppreference.com"
 HOMEPAGE="https://github.com/jeaye/stdman"
-SRC_URI="https://github.com/jeaye/stdman/archive/${PV}.tar.gz"
+SRC_URI="https://github.com/jeaye/stdman/archive/${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"

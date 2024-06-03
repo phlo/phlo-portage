@@ -5,7 +5,7 @@
 		<email>florian.schroegendorfer@phlo.at</email>
 		<name>Florian Schrögendorfer</name>
 	</maintainer>
-	<longdescription lang="en">
-		Automatically generate C++ man pages from cppreference.com
-	</longdescription>
+	<upstream>
+		<remote-id type="github">jeaye/stdman</remote-id>
+	</upstream>
 </pkgmetadata>
