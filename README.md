@@ -4,6 +4,7 @@ Repository (overlay) containing custom ebuilds for software not contained in Gen
 
 ## Packages
 
+* [app-admin/ekernel](https://github.com/phlo/ekernel) - custom Gentoo EFI stub kernel updater
 * [app-portage/remerge](https://github.com/phlo/remerge) - a quick and dirty binary package host implementation
 * [dev-cpp/stdman](https://github.com/jeaye/stdman) - C++ standard library man pages (generated from http://cppreference.com)
 
