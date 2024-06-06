@@ -18,6 +18,7 @@ KEYWORDS="~amd64"
 RDEPEND="
 	sys-apps/portage[${PYTHON_USEDEP}]
 	dev-python/packaging[${PYTHON_USEDEP}]
+	sys-boot/efibootmgr
 "
 
 distutils_enable_tests unittest
